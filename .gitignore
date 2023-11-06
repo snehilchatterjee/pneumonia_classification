@@ -164,4 +164,5 @@ chest_xray/
 convnext-base-224/
 swin-base4-224/
 vit-base-384/
+ACGAN.ipynb
 
