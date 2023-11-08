@@ -166,3 +166,5 @@ swin-base4-224/
 vit-base-384/
 ACGAN.ipynb
 ViT_Timm.ipynb
+data/
+
