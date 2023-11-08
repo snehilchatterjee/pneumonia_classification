@@ -165,6 +165,5 @@ convnext-base-224/
 swin-base4-224/
 vit-base-384/
 ACGAN.ipynb
-ViT_Timm.ipynb
 data/
 vit_base_patch8_224.augreg_in21k_feature_extractor/
