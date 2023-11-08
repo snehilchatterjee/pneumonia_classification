@@ -23,8 +23,8 @@ The following are some of the major libararies used in this project.
 ##
 
 ## About the files
+ 
 \
-
 This file contains a list of libraries used in the project
 
 Use the following command in command-line to install them together
@@ -41,7 +41,7 @@ These files contain the which was used for fine-tuining the pretrained models us
 #### Tensorboard
 Tensorboard training/testting metrics
 
-\
-\
-## Results
+&nbsp;
+
+### Results:
 
