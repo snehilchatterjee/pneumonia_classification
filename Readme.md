@@ -1,9 +1,8 @@
 # Pneumonia Classification
 ## _Using several image classification algorithms_
 
-## 
-## 
-##
+\
+\
 This project aims to compare different machine learning algorithms for the classificarion of pneumonia.
 The following are some of the major libararies used in this project.
 
@@ -11,6 +10,8 @@ The following are some of the major libararies used in this project.
 - Datasets by HuggingFace
 - Transformers by HuuggingFace
 - Pillow
+- Timm (PyTorch Image Models)
+- Torchvision
 
 ## Features
 
@@ -22,11 +23,7 @@ The following are some of the major libararies used in this project.
 ##
 
 ## About the files
-##
-##
-
-
-
+\
 
 This file contains a list of libraries used in the project
 
@@ -42,12 +39,9 @@ These files contain the which was used for fine-tuining the pretrained models us
 ##
 
 #### Tensorboard
-There are folders named 
+Tensorboard training/testting metrics
 
-##
-##
-##
-##
-
+\
+\
 ## Results
 
