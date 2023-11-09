@@ -162,7 +162,7 @@ cython_debug/
 #what
 .gitignore.swp
 
-#Custom folders
+#Custom folders and files
 chest_xray/
 convnext-base-224/
 swin-base4-224/
@@ -170,3 +170,5 @@ vit-base-384/
 ACGAN.ipynb
 data/
 vit_base_patch8_224.augreg_in21k_feature_extractor/
+ViT_Timm_modified.ipynb
+ViT_Model_Mixup_test.ipynb
