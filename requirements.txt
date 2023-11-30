@@ -6,3 +6,4 @@ datasets
 Pillow
 tqdm
 torchinfo
+gradio
