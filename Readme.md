@@ -18,7 +18,7 @@ The following are some of the major libararies used in this project.
 
 - PyTorch
 - Datasets by HuggingFace
-- Transformers by HuuggingFace
+- Transformers by HuggingFace
 - Pillow
 - Timm (PyTorch Image Models)
 - Torchvision
